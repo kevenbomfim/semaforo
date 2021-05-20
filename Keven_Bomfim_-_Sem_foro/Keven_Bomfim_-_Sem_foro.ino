@@ -1,10 +1,10 @@
 /*
 Semáforo, com 3 leds
-Autor: Keven Bomfim - Nº: 26
+Autor: Keven Bomfim
 Data: 13/04/2020
 */ 
 /*
-Suponhamos que: o LED Vermelho esteja no prino 13
+Suponhamos que: o LED Vermelho esteja no pino 13
                 o LED Amarelo esteja no pino 12
                 e o LED Verde no pino 11
 */
